@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Menter Mentee",
+    "desc": "Designed Using Django, React.",
+    "links": {
+      "code": "https://github.com/Abhinav2545/Menter-Mentee"
+    }
+  },
+  {
+    "name": "Thyroid Classification",
+    "desc": "Developed a web-based machine learning application to classify thyroid conditions into Hyperthyroidism, Hypothyroidism, or Normal, based on user inputs like TSH, T3, T4, and Age. The model was trained using a Random Forest Classifier and integrated into a Flask web application with a user-friendly HTML frontend.",
+    "links": {
+      "code": "https://github.com/Abhinav2545/thyroid-project"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "This is my personal portfolio website, showcasing my skills, projects, and experiences. It is built using HTML, CSS, and JavaScript.",
+    "links": {
+      "code": "https://github.com/Abhinav2545/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Parking System Management",
+    "desc": "This is a parking system management application that allows users to book and manage parking spaces. It is built using HTML, CSS, and JavaScript.",
+    "links": {
+      "code": "https://github.com/Abhinav2545/Parking-Management-System"
+    }
+  }
+]
